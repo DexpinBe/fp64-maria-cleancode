@@ -11,5 +11,5 @@ The function 'fibonacci' should return an array of fibonacci numbers. The functi
 
 #### Las reglas de clean code que he aplicado han sido:
 ##### El nombre de la función y el argumento ya estaban dados, así que lo que he hecho ha sido darle nombre a la variable const fibonacciSequence intentando que sea lo más descriptiva posible.
-#### Al principio había hecho un else if y un else pero los he eliminado porque no eran necesarios.
-#### He prestado mucha atención a la indentación.
+##### Al principio había hecho un else if y un else pero los he eliminado porque no eran necesarios.
+##### He prestado mucha atención a la indentación.
