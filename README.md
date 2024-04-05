@@ -7,7 +7,7 @@ The function 'fibonacci' should return an array of fibonacci numbers. The functi
 
 #### La solución que hice fue:
  
-![Texto alternativo]([https://github.com/DexpinBe/fp64-maria-cleancode/blob/main/47302896-dfa81aa4fb8ac8c7cfb8538c52fa6497.png])
+![Solución](https://github.com/DexpinBe/fp64-maria-cleancode/blob/main/47302896-dfa81aa4fb8ac8c7cfb8538c52fa6497.png)
 
 #### Las reglas de clean code que he aplicado han sido:
 ##### El nombre de la función y el argumento ya estaban dados, así que lo que he hecho ha sido darle nombre a la variable const fibonacciSequence intentando que sea lo más descriptiva posible.
