@@ -7,22 +7,7 @@ The function 'fibonacci' should return an array of fibonacci numbers. The functi
 
 #### La solución que hice fue:
  
-function fibonacci(number) {
-
-  if (number <= 0) {
-    return []
-  }
-  if (number === 1) {
-    return [1]
-  }
-  const fibonacciSequence = [0, 1];
-  for (let i = 2; i < number; i++) {
-    fibonacciSequence.push(fibonacciSequence[i - 1] + fibonacciSequence[i - 2]);
-  }
-  return fibonacciSequence;
-}
-
-console.log(fibonacci(5));
+![Texto alternativo]([https://github.com/DexpinBe/fp64-maria-cleancode/blob/main/47302896-dfa81aa4fb8ac8c7cfb8538c52fa6497.png])
 
 #### Las reglas de clean code que he aplicado han sido:
 ##### El nombre de la función y el argumento ya estaban dados, así que lo que he hecho ha sido darle nombre a la variable const fibonacciSequence intentando que sea lo más descriptiva posible.
